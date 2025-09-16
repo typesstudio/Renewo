@@ -2,7 +2,7 @@
 
 ## Principles
 - Bank-grade calm. Minimal, legible, predictable.
-- Show evidence. Reduce cognitive load. No dark patterns. :contentReference[oaicite:35]{index=35} :contentReference[oaicite:36]{index=36}
+- Show evidence. Reduce cognitive load. No dark patterns.
 
 ## Typography
 - **Inter** as primary family.
@@ -39,16 +39,16 @@
 - Clear error recovery for parsing/ingestion.
 
 ## Motion
-- Subtle only. 150–200ms. No distracting parallax. Matches “bank look.” :contentReference[oaicite:37]{index=37}
+- Subtle only. 150–200ms. No distracting parallax. Matches "bank look."
 
 ## Content style
-- Short, declarative copy. Avoid jargon. Explain terms inline during housing journeys. :contentReference[oaicite:38]{index=38}
+- Short, declarative copy. Avoid jargon. Explain terms inline during housing journeys.
 
 ## Screens to prioritize
-1) **Pre-Buy Report**: address header, risks, cost bands, negotiation checklist. :contentReference[oaicite:39]{index=39}
-2) **Passport Home**: tasks, assets, receipts, warranties. :contentReference[oaicite:40]{index=40}
-3) **Seller Export**: sections, preview, share/download. :contentReference[oaicite:41]{index=41}
-4) **Onboarding (Rising Young)**: warm guidance and quick value. :contentReference[oaicite:42]{index=42}
+1) **Pre-Buy Report**: address header, risks, cost bands, negotiation checklist.
+2) **Passport Home**: tasks, assets, receipts, warranties.
+3) **Seller Export**: sections, preview, share/download.
+4) **Onboarding (Rising Young)**: warm guidance and quick value.
 
 ## Brand alignment
-- Align with DB housing positioning and proof points without copying brand assets; emphasize clarity, advice, and whole-journey support. :contentReference[oaicite:43]{index=43}
+- Align with DB housing positioning and proof points without copying brand assets; emphasize clarity, advice, and whole-journey support.
